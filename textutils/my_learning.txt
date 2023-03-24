@@ -1,0 +1,5 @@
+What is props
+
+props are the things or we can say the variables that can pass at component in order to change the data present at frontend
+
+propType --> They are the type of props used to identify the type of props send by app
